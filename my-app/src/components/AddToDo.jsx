@@ -2,7 +2,6 @@ import { Button, HStack, Input, useToast } from "@chakra-ui/react";
 import classNames from "classnames/bind";
 import { nanoid } from "nanoid";
 import { useEffect, useRef, useState } from "react";
-import { btnAdd } from "./index";
 import styles from "./index.module.scss";
 import { gsap } from "gsap";
 
